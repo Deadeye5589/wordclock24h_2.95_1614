@@ -1,0 +1,35 @@
+../src/wclock24h-config.h
+
+#if WCLOCK24H == 1
+#define WC_ROWS     14	
+#define WC_COLUMNS  16
+
+
+../src/display/display-config.h
+
+#ifndef DSP_USE_LED
+#define DSP_USE_LED                 SK6812_RGBW_LED                      // set exactly one of the values above here, default is WS2812_GRB_LED
+#endif
+
+#  if WCLOCK24H == 1
+#    define DSP_STATUS_LEDS         0                                       // emulation: 1 status LED
+#    define DSP_MINUTE_LEDS         0                                       // emulation: 0 minute LEDs
+#    define DSP_DISPLAY_LEDS        0  
+
+
+#  if WCLOCK24H == 1
+#    define DSP_STATUS_LEDS         0                                       // 1 status LED
+#    define DSP_MINUTE_LEDS         0                                       // 0 minute LEDs
+#    define DSP_DISPLAY_LEDS        224                                     // 224 display LEDs
+
+
+make-tables/tables24h-de.h
+
+#define WC_ROWS                 14                              // 14 rows
+#define WC_COLUMNS              16                              // 16 columns
+
+
+
+
+
+

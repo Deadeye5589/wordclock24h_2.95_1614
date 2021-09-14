@@ -1,0 +1,2283 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+                              obj\wc24h-stm32f103-release\~#\src\main.o (symbol from plugin) (atoi)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+                              obj\wc24h-stm32f103-release\~#\src\timeserver\timeserver.o (symbol from plugin) (gmtime)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o) (gmtime_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o) (malloc)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o) (_free_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o) (_malloc_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+                              obj\wc24h-stm32f103-release\~#\src\display\display.o (symbol from plugin) (rand)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o) (_strtol_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+                              obj\wc24h-stm32f103-release\~#\src\main.o (symbol from plugin) (strtoul)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o) (__ctype_ptr__)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o) (_sbrk)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o) (_exit)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o (memcpy)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o (sprintf)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o (strcat)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o (strchr)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcmp.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o (strcmp)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o (strcpy)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strlen.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o (strlen)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o (strncmp)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o (strncpy)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+                              C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o (vsnprintf)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o) (_printf_i)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o) (memchr)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o) (memmove)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o) (_realloc_r)
+c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
+                              c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+gadc                0x4               obj\wc24h-stm32f103-release\~#\src\adc\adc.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\adc\adc.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss.var_send_busy
+                0x00000000        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\alarm\alarm.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\apa102\apa102.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\base\base.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\beeper\beeper.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\board-led\board-led.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\button\button.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\dcf77\dcf77.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\delay\delay.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\dfplayer\dfplayer-uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\dfplayer\dfplayer.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\display\display.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\ds18xx\ds18xx.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\eeprom\eeprom.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\esp-spiffs\esp-spiffs.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\esp8266\esp8266-uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\esp8266\esp8266.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\i2c\i2c.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\i2c\softi2c.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\irmp\irmp.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\ldr\ldr.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\log\log-uart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\log\log.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\main.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\night\night.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\onewire\onewire.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\overlay\overlay.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\power\power.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\remote-ir\remote-ir.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\rtc\rtc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\sk6812\sk6812.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\tables\tables.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\tempsensor\tempsensor.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\tetris\snake.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\tetris\tetris.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\timeserver\timeserver.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\vars\vars.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\weather\weather.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\wpsbutton\wpsbutton.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\~#\src\ws2812\ws2812.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\misc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_adc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_bkp.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_can.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_cec.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_crc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_dac.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_dbgmcu.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_exti.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_flash.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_fsmc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_gpio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_i2c.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_iwdg.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_pwr.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_rcc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_rtc.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_sdio.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_spi.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_tim.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_usart.o (symbol from plugin)
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\spl\src\stm32f10x_wwdg.o (symbol from plugin)
+ .data          0x00000000        0x0 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+ .text          0x00000000        0x0 obj\wc24h-stm32f103-release\src\system_stm32f10x.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+ .text._atoi_r  0x00000000        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+ .text.srand    0x00000000       0x50 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x40 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfe c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x08000000         0x00010000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00000000                __HEAP_SIZE = 0x0
+                0x00000100                __STACK_SIZE = 0x100
+
+.text           0x08000000     0xd7e0
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xec obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+                0x08000000                __isr_vector
+ *(.text*)
+ .text          0x080000ec       0x5c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x08000148       0x74 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x08000148                _start
+                0x08000148                _mainCRTStartup
+ .text.startup.main
+                0x080001bc     0x1fe8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x080001bc                main
+ .text.schedule_esp8266_messages
+                0x080021a4     0x2068 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+                0x080021a4                schedule_esp8266_messages
+ .text.dfplayer_uart_getc
+                0x0800420c       0x3c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .text.display_set_new_states.lto_priv.293
+                0x08004248       0x24 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004248                display_set_new_states.lto_priv.293
+ .text.dim_dsp_colors.lto_priv.129
+                0x0800426c       0x64 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x0800426c                dim_dsp_colors.lto_priv.129
+ .text.display_word_on.lto_priv.288
+                0x080042d0       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080042d0                display_word_on.lto_priv.288
+ .text.display_reset_led_states
+                0x08004308       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004308                display_reset_led_states
+ .text.display_refresh_ambilight_leds.lto_priv.155
+                0x08004330       0x14 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004330                display_refresh_ambilight_leds.lto_priv.155
+ .text.display_set_ambilight_leds.lto_priv.292
+                0x08004344       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004344                display_set_ambilight_leds.lto_priv.292
+ .text.display_show_ambilight_normal_mode.lto_priv.290
+                0x0800438c       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x0800438c                display_show_ambilight_normal_mode.lto_priv.290
+ .text.display_refresh_display_leds
+                0x080043d0        0x8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080043d0                display_refresh_display_leds
+ .text.display_animation_fade.lto_priv.271
+                0x080043d8      0x234 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080043d8                display_animation_fade.lto_priv.271
+ .text.display_animation_flush.lto_priv.229
+                0x0800460c       0xb0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x0800460c                display_animation_flush.lto_priv.229
+ .text.display_animation_none.lto_priv.270
+                0x080046bc       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080046bc                display_animation_none.lto_priv.270
+ .text.display_show_new_display.lto_priv.289
+                0x080046d8       0x70 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080046d8                display_show_new_display.lto_priv.289
+ .text.display_animation_roll.lto_priv.272
+                0x08004748      0x20c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004748                display_animation_roll.lto_priv.272
+ .text.dfplayer_save_speak_cycle.lto_priv.226
+                0x08004954       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004954                dfplayer_save_speak_cycle.lto_priv.226
+ .text.dfplayer_save_bell_flags.lto_priv.225
+                0x08004974       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004974                dfplayer_save_bell_flags.lto_priv.225
+ .text.dfplayer_save_mode.lto_priv.224
+                0x08004994       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004994                dfplayer_save_mode.lto_priv.224
+ .text.dfplayer_save_silence_stop.lto_priv.223
+                0x080049b4       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080049b4                dfplayer_save_silence_stop.lto_priv.223
+ .text.dfplayer_save_silence_start.lto_priv.222
+                0x080049dc       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080049dc                dfplayer_save_silence_start.lto_priv.222
+ .text.dfplayer_save_volume.lto_priv.221
+                0x08004a04       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004a04                dfplayer_save_volume.lto_priv.221
+ .text.dfplayer_send_cmd.lto_priv.151
+                0x08004a24       0xa8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004a24                dfplayer_send_cmd.lto_priv.151
+ .text.USART3_IRQHandler
+                0x08004acc       0xac C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004acc                USART3_IRQHandler
+ .text.delay_msec
+                0x08004b78       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004b78                delay_msec
+ .text.dfplayer_read_message
+                0x08004b94      0x3bc C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004b94                dfplayer_read_message
+ .text.delay_usec
+                0x08004f50       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004f50                delay_usec
+ .text.SysTick_Handler
+                0x08004f70       0x14 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004f70                SysTick_Handler
+ .text.htoi     0x08004f84       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004f84                htoi
+ .text.dayofweek
+                0x08004fcc       0x52 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08004fcc                dayofweek
+ *fill*         0x0800501e        0x2 
+ .text.add_days
+                0x08005020       0xb4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08005020                add_days
+ .text.init_date_codes
+                0x080050d4      0x1a4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080050d4                init_date_codes
+ .text.alarm_write_data_to_eeprom
+                0x08005278       0x54 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x08005278                alarm_write_data_to_eeprom
+ .text.adc_poll_conversion_value
+                0x080052cc       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                0x080052cc                adc_poll_conversion_value
+ .text.main_set_ambilight_clock_wait_cycles
+                0x080052f4       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x080052f4                main_set_ambilight_clock_wait_cycles
+ .text.USART1_IRQHandler
+                0x08005338       0xac C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x08005338                USART1_IRQHandler
+ .text.log_uart_flush
+                0x080053e4       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x080053e4                log_uart_flush
+ .text.log_uart_puts
+                0x080053f4       0x12 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x080053f4                log_uart_puts
+ *fill*         0x08005406        0x2 
+ .text.TIM2_IRQHandler
+                0x08005408      0xb00 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x08005408                TIM2_IRQHandler
+ .text.log_printf
+                0x08005f08       0x2c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x08005f08                log_printf
+ .text.display_init
+                0x08005f34      0x4f0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08005f34                display_init
+ .text.display_temperature
+                0x08006424       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006424                display_temperature
+ .text.display_ticker.lto_priv.130
+                0x08006484       0x68 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006484                display_ticker.lto_priv.130
+ .text.display_save_ticker_deceleration.lto_priv.220
+                0x080064ec       0x24 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080064ec                display_save_ticker_deceleration.lto_priv.220
+ .text.display_save_dimmed_ambilight_colors.lto_priv.207
+                0x08006510       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006510                display_save_dimmed_ambilight_colors.lto_priv.207
+ .text.display_save_dimmed_display_colors.lto_priv.206
+                0x08006538       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006538                display_save_dimmed_display_colors.lto_priv.206
+ .text.display_save_ambilight_mode_deceleration.lto_priv.198
+                0x08006560       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006560                display_save_ambilight_mode_deceleration.lto_priv.198
+ .text.display_save_color_animation.lto_priv.199
+                0x080065a8       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080065a8                display_save_color_animation.lto_priv.199
+ .text.display_save_animation.lto_priv.200
+                0x080065e0       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080065e0                display_save_animation.lto_priv.200
+ .text.display_save_ambilight_led_offset.lto_priv.215
+                0x08006620       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006620                display_save_ambilight_led_offset.lto_priv.215
+ .text.display_save_number_of_ambilight_leds.lto_priv.214
+                0x08006640       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006640                display_save_number_of_ambilight_leds.lto_priv.214
+ .text.display_save_ambilight_mode.lto_priv.213
+                0x08006660       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006660                display_save_ambilight_mode.lto_priv.213
+ .text.display_save_ambilight_brightness.lto_priv.216
+                0x08006680       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006680                display_save_ambilight_brightness.lto_priv.216
+ .text.display_save_ambilight_marker_colors.lto_priv.203
+                0x080066a0       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080066a0                display_save_ambilight_marker_colors.lto_priv.203
+ .text.display_save_ambilight_colors.lto_priv.202
+                0x080066e4       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080066e4                display_save_ambilight_colors.lto_priv.202
+ .text.display_save_automatic_brightness.lto_priv.233
+                0x08006728       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006728                display_save_automatic_brightness.lto_priv.233
+ .text.display_save_brightness.lto_priv.208
+                0x08006748       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006748                display_save_brightness.lto_priv.208
+ .text.display_save_color_animation_mode.lto_priv.218
+                0x08006768       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006768                display_save_color_animation_mode.lto_priv.218
+ .text.display_save_animation_mode.lto_priv.153
+                0x08006788       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006788                display_save_animation_mode.lto_priv.153
+ .text.display_save_display_flags.lto_priv.209
+                0x080067a8       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080067a8                display_save_display_flags.lto_priv.209
+ .text.display_save_display_mode
+                0x080067c8       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080067c8                display_save_display_mode
+ .text.display_set_display_mode
+                0x080067e8       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080067e8                display_set_display_mode
+ .text.display_save_display_colors.lto_priv.201
+                0x08006830       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006830                display_save_display_colors.lto_priv.201
+ .text.display_init_ambilight_mode_daylight.lto_priv.158
+                0x08006874       0x4c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006874                display_init_ambilight_mode_daylight.lto_priv.158
+ .text.display_init_ambilight_mode.lto_priv.211
+                0x080068c0       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080068c0                display_init_ambilight_mode.lto_priv.211
+ .text.desync_colors.lto_priv.210
+                0x08006900       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006900                desync_colors.lto_priv.210
+ .text.sync_colors.lto_priv.212
+                0x08006930       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006930                sync_colors.lto_priv.212
+ .text.display_calc_dimmed_display_colors.lto_priv.152
+                0x08006978       0x3c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006978                display_calc_dimmed_display_colors.lto_priv.152
+ .text.display_set_automatic_brightness
+                0x080069b4       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x080069b4                display_set_automatic_brightness
+ .text.display_init_color_animation_daylight.lto_priv.156
+                0x08006a14       0x4c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006a14                display_init_color_animation_daylight.lto_priv.156
+ .text.display_init_color_animation.lto_priv.217
+                0x08006a60       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006a60                display_init_color_animation.lto_priv.217
+ .text.display_calc_dimmed_ambilight_marker_colors.lto_priv.204
+                0x08006a90       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x08006a90                display_calc_dimmed_ambilight_marker_colors.lto_priv.204
+ .text.display_animation_random.lto_priv.274
+                0x08006ab0       0x9c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08006ab0                display_animation_random.lto_priv.274
+ .text.display_animation_flicker.lto_priv.281
+                0x08006b4c       0x70 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08006b4c                display_animation_flicker.lto_priv.281
+ .text.display_animation_squeeze.lto_priv.280
+                0x08006bbc       0xec C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08006bbc                display_animation_squeeze.lto_priv.280
+ .text.display_animation_teletype.lto_priv.276
+                0x08006ca8       0x98 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08006ca8                display_animation_teletype.lto_priv.276
+ .text.display_animation_explode.lto_priv.273
+                0x08006d40      0x1c4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08006d40                display_animation_explode.lto_priv.273
+ .text.display_animation_drop.lto_priv.279
+                0x08006f04      0x1f8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08006f04                display_animation_drop.lto_priv.279
+ .text.display_animation_cube.lto_priv.277
+                0x080070fc      0x15c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x080070fc                display_animation_cube.lto_priv.277
+ .text.display_animation_generic_matrix
+                0x08007258      0x2b0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .text.display_animation_matrix.lto_priv.282
+                0x08007508        0x6 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08007508                display_animation_matrix.lto_priv.282
+ .text.display_animation_green_matrix.lto_priv.278
+                0x0800750e        0x6 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x0800750e                display_animation_green_matrix.lto_priv.278
+ .text.display_animation_snake.lto_priv.275
+                0x08007514      0x2a8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08007514                display_animation_snake.lto_priv.275
+ .text.display_calc_dimmed_ambilight_colors.lto_priv.157
+                0x080077bc       0x64 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x080077bc                display_calc_dimmed_ambilight_colors.lto_priv.157
+ .text.display_show_ambilight_off.lto_priv.154
+                0x08007820       0x22 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08007820                display_show_ambilight_off.lto_priv.154
+ *fill*         0x08007842        0x2 
+ .text.display_clock
+                0x08007844       0x90 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x08007844                display_clock
+ .text.display_set_ambilight_power
+                0x080078d4       0x24 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                0x080078d4                display_set_ambilight_power
+ .text.I2C_GetFlagStatus.constprop.111
+                0x080078f8       0x3c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x080078f8                I2C_GetFlagStatus.constprop.111
+ .text.i2c_wait_for_flags.constprop.105
+                0x08007934       0x26 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007934                i2c_wait_for_flags.constprop.105
+ *fill*         0x0800795a        0x2 
+ .text.delay_init.constprop.97
+                0x0800795c       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x0800795c                delay_init.constprop.97
+ .text.NVIC_Init.part.0.constprop.92
+                0x080079a4       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x080079a4                NVIC_Init.part.0.constprop.92
+ .text.display_show_ticker_char.constprop.84
+                0x080079ec       0xd0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x080079ec                display_show_ticker_char.constprop.84
+ .text.display_set_ambilight_led.constprop.80
+                0x08007abc       0x4c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007abc                display_set_ambilight_led.constprop.80
+ .text.display_set_display_led.constprop.78
+                0x08007b08       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007b08                display_set_display_led.constprop.78
+ .text.display_dim_display_dsp_colors.constprop.77
+                0x08007b50       0x18 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007b50                display_dim_display_dsp_colors.constprop.77
+ .text.display_set_ticker.constprop.70
+                0x08007b68       0x58 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007b68                display_set_ticker.constprop.70
+ .text.rtc_set_date_time.constprop.68
+                0x08007bc0       0xa0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007bc0                rtc_set_date_time.constprop.68
+ .text.var_send_num8_array.part.2.constprop.45
+                0x08007c60       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007c60                var_send_num8_array.part.2.constprop.45
+ .text.onewire_write.constprop.17
+                0x08007c90       0x18 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007c90                onewire_write.constprop.17
+ .text.rtc_get_date_time.part.1.constprop.2
+                0x08007ca8       0x88 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007ca8                rtc_get_date_time.part.1.constprop.2
+ .text.SystemInit
+                0x08007d30       0xf4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007d30                SystemInit
+ .text.USART_GetITStatus
+                0x08007e24       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007e24                USART_GetITStatus
+ .text.RCC_GetClocksFreq
+                0x08007e64       0x88 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007e64                RCC_GetClocksFreq
+ .text.USART_Init.constprop.94
+                0x08007eec       0xa4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007eec                USART_Init.constprop.94
+ .text.I2C_DeInit.part.0.lto_priv.268
+                0x08007f90       0x18 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007f90                I2C_DeInit.part.0.lto_priv.268
+ .text.GPIO_Init
+                0x08007fa8       0x9c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08007fa8                GPIO_Init
+ .text.esp8266_uart_init.part.0.constprop.10
+                0x08008044       0xf0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08008044                esp8266_uart_init.part.0.constprop.10
+ .text.log_uart_init.constprop.6
+                0x08008134       0xf8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x08008134                log_uart_init.constprop.6
+ .text.weather_query
+                0x0800822c       0xb0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x0800822c                weather_query
+ .text.sk6812_setup_dma_buf
+                0x080082dc      0x12c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .text.weather_write_config_to_eeprom
+                0x08008408       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008408                weather_write_config_to_eeprom
+ .text.var_send_buf.lto_priv.132
+                0x08008468       0x34 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008468                var_send_buf.lto_priv.132
+ .text.var_send_str_variable.part.1.lto_priv.191
+                0x0800849c       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x0800849c                var_send_str_variable.part.1.lto_priv.191
+ .text.var_send_num_variable.part.0.lto_priv.159
+                0x080084bc       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080084bc                var_send_num_variable.part.0.lto_priv.159
+ .text.var_send_animation_mode
+                0x080084e4       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080084e4                var_send_animation_mode
+ .text.var_send_display_brightness
+                0x080084f4       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080084f4                var_send_display_brightness
+ .text.var_send_tm
+                0x08008504       0x3c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008504                var_send_tm
+ .text.var_send_dsp_color_variable.lto_priv.190
+                0x08008540       0x2c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008540                var_send_dsp_color_variable.lto_priv.190
+ .text.var_send_display_colors
+                0x0800856c        0xc C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x0800856c                var_send_display_colors
+ .text.var_send_string.lto_priv.189
+                0x08008578       0x24 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008578                var_send_string.lto_priv.189
+ .text.var_send_byte.lto_priv.188
+                0x0800859c       0x24 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x0800859c                var_send_byte.lto_priv.188
+ .text.timeserver_save_timezone.lto_priv.219
+                0x080085c0       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080085c0                timeserver_save_timezone.lto_priv.219
+ .text.check_field.lto_priv.195
+                0x08008604       0x24 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008604                check_field.lto_priv.195
+ .text.check_move.lto_priv.192
+                0x08008628       0x70 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008628                check_move.lto_priv.192
+ .text.draw_tetromino.lto_priv.193
+                0x08008698       0x78 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008698                draw_tetromino.lto_priv.193
+ .text.tetromino_down.lto_priv.194
+                0x08008710       0x2c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008710                tetromino_down.lto_priv.194
+ .text.add_new_food.lto_priv.196
+                0x0800873c       0x70 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x0800873c                add_new_food.lto_priv.196
+ .text.temp_write_config_to_eeprom
+                0x080087ac       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080087ac                temp_write_config_to_eeprom
+ .text.temp_read_temp_index
+                0x080087dc       0x80 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080087dc                temp_read_temp_index
+ .text.tables_fill_words
+                0x0800885c      0x11c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x0800885c                tables_fill_words
+ .text.tables_get
+                0x08008978       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008978                tables_get
+ .text.sk6812_refresh
+                0x080089b0       0xc4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x080089b0                sk6812_refresh
+ .text.DMA1_Channel2_IRQHandler
+                0x08008a74       0x64 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008a74                DMA1_Channel2_IRQHandler
+ .text.rtc_write_config_to_eeprom
+                0x08008ad8       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008ad8                rtc_write_config_to_eeprom
+ .text.rtc_write.lto_priv.131
+                0x08008b08       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008b08                rtc_write.lto_priv.131
+ .text.rtc_read.lto_priv.133
+                0x08008b24       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008b24                rtc_read.lto_priv.133
+ .text.rtc_get_temperature_index
+                0x08008b40       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008b40                rtc_get_temperature_index
+ .text.rtc_init
+                0x08008b78       0xac C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008b78                rtc_init
+ .text.remote_ir_write_codes_to_eeprom
+                0x08008c24       0x58 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008c24                remote_ir_write_codes_to_eeprom
+ .text.remote_ir_learn
+                0x08008c7c      0x11c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x08008c7c                remote_ir_learn
+ .text.log_eeprom_error.lto_priv.231
+                0x08008d98        0xc C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                0x08008d98                log_eeprom_error.lto_priv.231
+ .text.write_update_host_to_eeprom.lto_priv.205
+                0x08008da4       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                0x08008da4                write_update_host_to_eeprom.lto_priv.205
+ .text.write_main_parameters_to_eeprom.lto_priv.232
+                0x08008dc0       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                0x08008dc0                write_main_parameters_to_eeprom.lto_priv.232
+ .text.read_configuration_from_eeprom.lto_priv.150
+                0x08008df8      0xa34 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                0x08008df8                read_configuration_from_eeprom.lto_priv.150
+ .text.write_version_to_eeprom.lto_priv.228
+                0x0800982c       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                0x0800982c                write_version_to_eeprom.lto_priv.228
+ .text.i2c_send_address
+                0x08009848       0x90 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .text.i2c_init_i2c
+                0x080098d8       0xcc C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .text.log_uart_putc
+                0x080099a4       0x4c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x080099a4                log_uart_putc
+ .text.ldr_write_config_to_eeprom
+                0x080099f0       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x080099f0                ldr_write_config_to_eeprom
+ .text.irmp_store_bit.lto_priv.250
+                0x08009a28       0xd0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009a28                irmp_store_bit.lto_priv.250
+ .text.irmp_get_data
+                0x08009af8       0xb0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009af8                irmp_get_data
+ .text.i2c_init.part.1.lto_priv.137
+                0x08009ba8      0x110 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009ba8                i2c_init.part.1.lto_priv.137
+ .text.i2c_handle_timeout.lto_priv.128
+                0x08009cb8       0x34 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009cb8                i2c_handle_timeout.lto_priv.128
+ .text.i2c_wait_for_flags.part.0
+                0x08009cec       0x32 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ *fill*         0x08009d1e        0x2 
+ .text.i2c_write
+                0x08009d20       0x64 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009d20                i2c_write
+ .text.i2c_read
+                0x08009d84       0xe4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009d84                i2c_read
+ .text.esp8266_send_cmd
+                0x08009e68       0xd8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                0x08009e68                esp8266_send_cmd
+ .text.esp8266_gpio_init.lto_priv.161
+                0x08009f40       0x7c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x08009f40                esp8266_gpio_init.lto_priv.161
+ .text.esp8266_uart_poll.part.1.lto_priv.162
+                0x08009fbc       0x38 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x08009fbc                esp8266_uart_poll.part.1.lto_priv.162
+ .text.esp8266_get_message
+                0x08009ff4      0x3f4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x08009ff4                esp8266_get_message
+ .text.USART2_IRQHandler
+                0x0800a3e8       0xac C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a3e8                USART2_IRQHandler
+ .text.esp8266_uart_putc
+                0x0800a494       0x4c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a494                esp8266_uart_putc
+ .text.esp8266_uart_puts
+                0x0800a4e0       0x12 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a4e0                esp8266_uart_puts
+ *fill*         0x0800a4f2        0x2 
+ .text.esp_diffs_get_icon
+                0x0800a4f4       0x34 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a4f4                esp_diffs_get_icon
+ .text.eeprom_write
+                0x0800a528       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a528                eeprom_write
+ .text.eeprom_read
+                0x0800a588       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a588                eeprom_read
+ .text.eeprom_init
+                0x0800a5b8       0x50 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                0x0800a5b8                eeprom_init
+ .text.speak.lto_priv.146
+                0x0800a608       0x88 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x0800a608                speak.lto_priv.146
+ .text.set_display_power.lto_priv.148
+                0x0800a690       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x0800a690                set_display_power.lto_priv.148
+ .text.upgrade_eeprom_version.lto_priv.149
+                0x0800a6d8      0x1ec C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x0800a6d8                upgrade_eeprom_version.lto_priv.149
+ .text.search_cmd.lto_priv.138
+                0x0800a8c4       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800a8c4                search_cmd.lto_priv.138
+ .text.power_on
+                0x0800a904       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800a904                power_on
+ .text.overlay_calc_dates.part.2.lto_priv.160
+                0x0800a934       0xac C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800a934                overlay_calc_dates.part.2.lto_priv.160
+ .text.overlay_save_overlay.lto_priv.197
+                0x0800a9e0       0x7c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800a9e0                overlay_save_overlay.lto_priv.197
+ .text.overlay_save_n_overlays.lto_priv.227
+                0x0800aa5c       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800aa5c                overlay_save_n_overlays.lto_priv.227
+ .text.onewire_write_byte
+                0x0800aa7c       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800aa7c                onewire_write_byte
+ .text.onewire_read_bit
+                0x0800aabc       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800aabc                onewire_read_bit
+ .text.onewire_read
+                0x0800aae4       0x2e C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800aae4                onewire_read
+ *fill*         0x0800ab12        0x2 
+ .text.onewire_reset
+                0x0800ab14       0x74 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800ab14                onewire_reset
+ .text.night_check_night_times
+                0x0800ab88       0x84 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800ab88                night_check_night_times
+ .text.night_write_data_to_eeprom
+                0x0800ac0c       0x90 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x0800ac0c                night_write_data_to_eeprom
+ .text.do_play_dfplayer.lto_priv.147
+                0x0800ac9c       0x34 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+                0x0800ac9c                do_play_dfplayer.lto_priv.147
+ .text          0x0800acd0       0xb8 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+                0x0800acd0                Reset_Handler
+                0x0800ad16                NMI_Handler
+                0x0800ad18                HardFault_Handler
+                0x0800ad1a                MemManage_Handler
+                0x0800ad1c                BusFault_Handler
+                0x0800ad1e                UsageFault_Handler
+                0x0800ad20                SVC_Handler
+                0x0800ad22                DebugMon_Handler
+                0x0800ad24                PendSV_Handler
+                0x0800ad28                Default_Handler
+                0x0800ad2a                WWDG_IRQHandler
+                0x0800ad2c                PVD_IRQHandler
+                0x0800ad2e                TAMPER_IRQHandler
+                0x0800ad30                RTC_IRQHandler
+                0x0800ad32                FLASH_IRQHandler
+                0x0800ad34                RCC_IRQHandler
+                0x0800ad36                EXTI0_IRQHandler
+                0x0800ad38                EXTI1_IRQHandler
+                0x0800ad3a                EXTI2_IRQHandler
+                0x0800ad3c                EXTI3_IRQHandler
+                0x0800ad3e                EXTI4_IRQHandler
+                0x0800ad40                DMA1_Channel1_IRQHandler
+                0x0800ad44                DMA1_Channel3_IRQHandler
+                0x0800ad46                DMA1_Channel4_IRQHandler
+                0x0800ad48                DMA1_Channel5_IRQHandler
+                0x0800ad4a                DMA1_Channel6_IRQHandler
+                0x0800ad4c                DMA1_Channel7_IRQHandler
+                0x0800ad4e                ADC1_2_IRQHandler
+                0x0800ad50                USB_HP_CAN1_TX_IRQHandler
+                0x0800ad52                USB_LP_CAN1_RX0_IRQHandler
+                0x0800ad54                CAN1_RX1_IRQHandler
+                0x0800ad56                CAN1_SCE_IRQHandler
+                0x0800ad58                EXTI9_5_IRQHandler
+                0x0800ad5a                TIM1_BRK_IRQHandler
+                0x0800ad5c                TIM1_UP_IRQHandler
+                0x0800ad5e                TIM1_TRG_COM_IRQHandler
+                0x0800ad60                TIM1_CC_IRQHandler
+                0x0800ad64                TIM3_IRQHandler
+                0x0800ad66                TIM4_IRQHandler
+                0x0800ad68                I2C1_EV_IRQHandler
+                0x0800ad6a                I2C1_ER_IRQHandler
+                0x0800ad6c                I2C2_EV_IRQHandler
+                0x0800ad6e                I2C2_ER_IRQHandler
+                0x0800ad70                SPI1_IRQHandler
+                0x0800ad72                SPI2_IRQHandler
+                0x0800ad7a                EXTI15_10_IRQHandler
+                0x0800ad7c                RTCAlarm_IRQHandler
+                0x0800ad7e                USBWakeUp_IRQHandler
+ .text.atoi     0x0800ad88        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+                0x0800ad88                atoi
+ .text.exit     0x0800ad90       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+                0x0800ad90                exit
+ .text.gmtime   0x0800adb8       0x24 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+                0x0800adb8                gmtime
+ .text.gmtime_r
+                0x0800addc      0x12c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+                0x0800addc                gmtime_r
+ .text.__libc_init_array
+                0x0800af08       0x4c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+                0x0800af08                __libc_init_array
+ .text.malloc   0x0800af54       0x10 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+                0x0800af54                malloc
+ .text.memset   0x0800af64       0x10 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+                0x0800af64                memset
+ .text._free_r  0x0800af74       0x98 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+                0x0800af74                _free_r
+ .text._malloc_r
+                0x0800b00c       0xbc c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+                0x0800b00c                _malloc_r
+ .text.rand     0x0800b0c8       0x74 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+                0x0800b0c8                rand
+ .text._sbrk_r  0x0800b13c       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+                0x0800b13c                _sbrk_r
+ .text._strtol_r
+                0x0800b15c      0x10c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+                0x0800b15c                _strtol_r
+ .text.strtol   0x0800b268       0x14 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+                0x0800b268                strtol
+ .text._strtoul_r
+                0x0800b27c       0xfc c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+                0x0800b27c                _strtoul_r
+ .text.strtoul  0x0800b378       0x14 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+                0x0800b378                strtoul
+ .text.__malloc_lock
+                0x0800b38c        0x2 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+                0x0800b38c                __malloc_lock
+ .text.__malloc_unlock
+                0x0800b38e        0x2 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+                0x0800b38e                __malloc_unlock
+ .text._sbrk    0x0800b390       0x1c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+                0x0800b390                _sbrk
+ .text._exit    0x0800b3ac        0x2 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+                0x0800b3ac                _exit
+ .text.memcpy   0x0800b3ae       0x16 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+                0x0800b3ae                memcpy
+ .text.sprintf  0x0800b3c4       0x48 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+                0x0800b3c4                siprintf
+                0x0800b3c4                sprintf
+ .text.strcat   0x0800b40c       0x1e c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+                0x0800b40c                strcat
+ .text.strchr   0x0800b42a       0x1c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+                0x0800b42a                strchr
+ .text          0x0800b446       0x14 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcmp.o)
+                0x0800b446                strcmp
+ .text.strcpy   0x0800b45a       0x10 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+                0x0800b45a                strcpy
+ .text          0x0800b46a       0x10 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strlen.o)
+                0x0800b46a                strlen
+ .text.strncmp  0x0800b47a       0x2a c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+                0x0800b47a                strncmp
+ .text.strncpy  0x0800b4a4       0x26 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+                0x0800b4a4                strncpy
+ .text._vsnprintf_r
+                0x0800b4ca       0x56 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+                0x0800b4ca                _vsniprintf_r
+                0x0800b4ca                _vsnprintf_r
+ .text.vsnprintf
+                0x0800b520       0x1c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+                0x0800b520                vsniprintf
+                0x0800b520                vsnprintf
+ .text.__ssputs_r
+                0x0800b53c       0xb2 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+                0x0800b53c                __ssputs_r
+ *fill*         0x0800b5ee        0x2 
+ .text._svfprintf_r
+                0x0800b5f0      0x1e8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+                0x0800b5f0                _svfiprintf_r
+                0x0800b5f0                _svfprintf_r
+ .text._printf_common
+                0x0800b7d8       0xec c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+                0x0800b7d8                _printf_common
+ .text._printf_i
+                0x0800b8c4      0x24c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+                0x0800b8c4                _printf_i
+ .text.memchr   0x0800bb10       0x1c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+                0x0800bb10                memchr
+ .text.memmove  0x0800bb2c       0x36 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+                0x0800bb2c                memmove
+ .text._realloc_r
+                0x0800bb62       0x4c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+                0x0800bb62                _realloc_r
+ .text._malloc_usable_size_r
+                0x0800bbae       0x14 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
+                0x0800bbae                _malloc_usable_size_r
+ *(.init)
+ *fill*         0x0800bbc2        0x2 
+ .init          0x0800bbc4        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x0800bbc4                _init
+ .init          0x0800bbc8        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x0800bbd0        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x0800bbd0                _fini
+ .fini          0x0800bbd4        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.wdays_en
+                0x0800bbdc       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .rodata.icon_colors
+                0x0800bbf8       0x28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .rodata.pwmtable8
+                0x0800bc20       0x80 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x0800bc20                pwmtable8
+ .rodata.str1.1
+                0x0800bca0      0x52d C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                                0x552 (size before relaxing)
+ .rodata.dsp_color1
+                0x0800c1cd        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .rodata.food_color
+                0x0800c1d1        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .rodata.tetromino_widths
+                0x0800c1d5        0x7 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x0800c1dc      0x217 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+                                0x22a (size before relaxing)
+ .rodata.snake_color
+                0x0800c3f3        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .rodata.tetromino_colors
+                0x0800c3f7       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x0800c413      0x516 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                                0x533 (size before relaxing)
+ *fill*         0x0800c929        0x3 
+ .rodata.nec_param
+                0x0800c92c       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .rodata.nec_rep_param
+                0x0800c970       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .rodata.sircs_param
+                0x0800c9b4       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .rodata.samsung_param
+                0x0800c9f8       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .rodata.kaseikyo_param
+                0x0800ca3c       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .rodata.g_days_per_month.lto_priv.300
+                0x0800ca80       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x0800ca80                g_days_per_month.lto_priv.300
+ .rodata.str1.1
+                0x0800cab0       0x9e C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                                 0xa1 (size before relaxing)
+ *fill*         0x0800cb4e        0x2 
+ .rodata.daylight_blue
+                0x0800cb50       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .rodata.str1.1
+                0x0800cbb0       0xb5 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                                 0xcd (size before relaxing)
+ *fill*         0x0800cc65        0x3 
+ .rodata.daylight_green
+                0x0800cc68       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .rodata.daylight_red
+                0x0800ccc8       0x60 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .rodata.ticker_font
+                0x0800cd28      0x400 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .rodata.str1.1
+                0x0800d128       0x2c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                                 0x34 (size before relaxing)
+ .rodata.str1.1
+                0x0800d154      0x21c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                                0x22b (size before relaxing)
+ .rodata.tetrominos.lto_priv.174
+                0x0800d370       0x70 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x0800d370                tetrominos.lto_priv.174
+ .rodata        0x0800d3e0        0x3 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .rodata.str1.1
+                0x0800d3e3       0x6b C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                                 0xa2 (size before relaxing)
+ .rodata.str1.1
+                0x0800d44e       0x33 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                                 0x36 (size before relaxing)
+ .rodata.str1.1
+                0x0800d481       0x9f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                                 0xaa (size before relaxing)
+ .rodata.str1.1
+                0x0800d520      0x13b C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                                0x146 (size before relaxing)
+ .rodata.str1.1
+                0x0800d65b       0x47 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                                 0x4a (size before relaxing)
+ .rodata.str1.1
+                0x0800d6a2        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ *fill*         0x0800d6a2        0x2 
+ .rodata._global_impure_ptr
+                0x0800d6a4        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+                0x0800d6a4                _global_impure_ptr
+ .rodata._ctype_
+                0x0800d6a8      0x101 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+                0x0800d6a8                _ctype_
+ .rodata.str1.1
+                0x0800d7a9       0x11 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x0800d7ba       0x22 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+ *(.eh_frame*)
+ .eh_frame      0x0800d7dc        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x0800d7dc        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+
+.glue_7         0x0800d7e0        0x0
+ .glue_7        0x0800d7e0        0x0 linker stubs
+
+.glue_7t        0x0800d7e0        0x0
+ .glue_7t       0x0800d7e0        0x0 linker stubs
+
+.vfp11_veneer   0x0800d7e0        0x0
+ .vfp11_veneer  0x0800d7e0        0x0 linker stubs
+
+.v4_bx          0x0800d7e0        0x0
+ .v4_bx         0x0800d7e0        0x0 linker stubs
+
+.iplt           0x0800d7e0        0x0
+ .iplt          0x0800d7e0        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800d7e0                __exidx_start = .
+
+.ARM.exidx      0x0800d7e0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0800d7e0        0x8 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x0800d7e8                __exidx_end = .
+                0x0800d7e8                __etext = .
+
+.rel.dyn        0x0800d7e8        0x0
+ .rel.iplt      0x0800d7e8        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.data           0x20000000      0x130 load address 0x0800d7e8
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.dimmed_display_colors.lto_priv.286
+                0x20000000        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000000                dimmed_display_colors.lto_priv.286
+ .data.show_overlay_idx.lto_priv.183
+                0x20000004        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000004                show_overlay_idx.lto_priv.183
+ .data.last_ldr_value.lto_priv.178
+                0x20000008        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000008                last_ldr_value.lto_priv.178
+ .data.ambilight_rainbow_state2.9989
+                0x2000000c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.last_ldr_raw_value.9762
+                0x20000010        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.last_hour.9987
+                0x20000014        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.dimmed_ambilight_marker_colors.lto_priv.287
+                0x20000018        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000018                dimmed_ambilight_marker_colors.lto_priv.287
+ .data.net_time_countdown.lto_priv.164
+                0x2000001c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x2000001c                net_time_countdown.lto_priv.164
+ .data.ldr      0x20000020        0x8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000020                ldr
+ .data.display_clock_flag.lto_priv.163
+                0x20000028        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000028                display_clock_flag.lto_priv.163
+ .data.last_hour.10000
+                0x2000002c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.AHBPrescTable
+                0x20000030       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.last_minute.9843
+                0x20000040        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.display_rainbow_state2.9976
+                0x20000044        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .data.eeprom_version.lto_priv.230
+                0x20000048        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+                0x20000048                eeprom_version.lto_priv.230
+ .data.last_cmd.8937
+                0x2000004c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .data.last_par.8938
+                0x20000050        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .data.bitno.7660
+                0x20000054        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .data.last_irmp_address.7102
+                0x20000058        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .data.state.7658
+                0x2000005c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .data.last_minute_of_ds3231_flag.9437
+                0x20000060        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .data.last_irmp_command.7103
+                0x20000064        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .data.dimmed_ambilight_colors.lto_priv.291
+                0x20000068        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                0x20000068                dimmed_ambilight_colors.lto_priv.291
+ .data.ADCPrescTable
+                0x2000006c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .data.grtc     0x20000070        0xc C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000070                grtc
+ .data.APBAHBPrescTable
+                0x2000007c       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .data.msec_factor.lto_priv.297
+                0x2000008c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x2000008c                msec_factor.lto_priv.297
+ .data.ticker_ptr.lto_priv.140
+                0x20000090        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000090                ticker_ptr.lto_priv.140
+ .data.resolution.lto_priv.298
+                0x20000094        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000094                resolution.lto_priv.298
+ .data.SystemCoreClock
+                0x20000098        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000098                SystemCoreClock
+ .data.gtemp    0x2000009c        0x8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x2000009c                gtemp
+ .data.timeserver
+                0x200000a4       0x18 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x200000a4                timeserver
+ .data.power    0x200000bc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x200000bc                power
+ .data.impure_data
+                0x200000c0       0x60 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000120        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+                0x20000120                _impure_ptr
+ .data.__ctype_ptr__
+                0x20000124        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+                0x20000124                __ctype_ptr__
+                0x20000128                . = ALIGN (0x4)
+                0x20000128                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000128                PROVIDE (__preinit_array_end, .)
+                0x20000128                . = ALIGN (0x4)
+                0x20000128                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000128        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                0x2000012c                PROVIDE (__init_array_end, .)
+                0x2000012c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x2000012c        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+                0x20000130                . = ALIGN (0x4)
+                0x20000130                __data_end__ = .
+
+.jcr            0x20000130        0x0 load address 0x0800d918
+ .jcr           0x20000130        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.igot.plt       0x20000130        0x0 load address 0x0800d918
+ .igot.plt      0x20000130        0x0 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.bss            0x20000130     0x3110 load address 0x0800d918
+                0x20000130                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000130       0x1c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .bss.uptime    0x2000014c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x2000014c                uptime
+ .bss.conversion_started.lto_priv.187
+                0x20000150        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000150                conversion_started.lto_priv.187
+ .bss.alarm_time
+                0x20000154       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000154                alarm_time
+ .bss.row_offset.9947
+                0x20000194        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.already_called.8807
+                0x20000198        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.deceleration_cnt.9974
+                0x2000019c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.show_date.lto_priv.186
+                0x200001a0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001a0                show_date.lto_priv.186
+ .bss.time_is_valid.lto_priv.248
+                0x200001a4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001a4                time_is_valid.lto_priv.248
+ .bss.net_time_flag.lto_priv.184
+                0x200001a8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001a8                net_time_flag.lto_priv.184
+ .bss.display_rainbow_cnt.9978
+                0x200001ac        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.animation_off_len.9944
+                0x200001b0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.year.lto_priv.247
+                0x200001b4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001b4                year.lto_priv.247
+ .bss.last_year.9779
+                0x200001b8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.esp8266_ten_ms_tick
+                0x200001bc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001bc                esp8266_ten_ms_tick
+ .bss.frame.7517
+                0x200001c0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambi_red_step.9861
+                0x200001c4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambi_blue_step.9863
+                0x200001c8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.animation_flag.lto_priv.179
+                0x200001cc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001cc                animation_flag.lto_priv.179
+ .bss.local_uptime.lto_priv.166
+                0x200001d0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001d0                local_uptime.lto_priv.166
+ .bss.dfplayer  0x200001d4       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001d4                dfplayer
+ .bss.display_rainbow_state1.9975
+                0x200001f4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.uart_rxbuf.lto_priv.249
+                0x200001f8      0x100 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200001f8                uart_rxbuf.lto_priv.249
+ .bss.hour.lto_priv.243
+                0x200002f8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200002f8                hour.lto_priv.243
+ .bss.ambi_green_step.9862
+                0x200002fc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.wday.lto_priv.245
+                0x20000300        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000300                wday.lto_priv.245
+ .bss.last_dfplayer_is_up.9842
+                0x20000304        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.read_rtc_temperature_flag.lto_priv.180
+                0x20000308        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000308                read_rtc_temperature_flag.lto_priv.180
+ .bss.last_led_idx.9857
+                0x2000030c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambilight_rainbow_phase.9990
+                0x20000310        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.read_temperature_flag.lto_priv.182
+                0x20000314        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000314                read_temperature_flag.lto_priv.182
+ .bss.uart_rxsize.lto_priv.142
+                0x20000318        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000318                uart_rxsize.lto_priv.142
+ .bss.uart_rxsize.lto_priv.143
+                0x2000031c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x2000031c                uart_rxsize.lto_priv.143
+ .bss.ds18xx    0x20000320        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000320                ds18xx
+ .bss.icon_duration.lto_priv.165
+                0x20000324        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000324                icon_duration.lto_priv.165
+ .bss.ds3231_flag.lto_priv.239
+                0x20000328        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000328                ds3231_flag.lto_priv.239
+ .bss.ambilight_rainbow_state1.9988
+                0x2000032c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.rgb_step.9860
+                0x20000330        0x8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.display_rainbow_phase.9977
+                0x20000338        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambilight_rainbow_cnt.9991
+                0x2000033c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.col_offset.9948
+                0x20000340        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambi_white_step.9864
+                0x20000344        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.show_time_flag.lto_priv.240
+                0x20000348        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000348                show_time_flag.lto_priv.240
+ .bss.state.9942
+                0x2000034c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.last_repetition_flag.7518
+                0x20000350        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.half_minute_flag.lto_priv.241
+                0x20000354        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000354                half_minute_flag.lto_priv.241
+ .bss.cnt.9858  0x20000358        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambilight_clock_led_idx.lto_priv.236
+                0x2000035c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x2000035c                ambilight_clock_led_idx.lto_priv.236
+ .bss.already_called.7110
+                0x20000360        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.month.lto_priv.246
+                0x20000364        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000364                month.lto_priv.246
+ .bss.seconds_flag.lto_priv.238
+                0x20000368        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000368                seconds_flag.lto_priv.238
+ .bss.rgb_fade.9859
+                0x2000036c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.mday.lto_priv.244
+                0x20000370        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000370                mday.lto_priv.244
+ .bss.duration.9946
+                0x20000374        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.ambilight_clock_tick.lto_priv.237
+                0x20000378        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000378                ambilight_clock_tick.lto_priv.237
+ .bss.measure_temperature_flag.lto_priv.181
+                0x2000037c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x2000037c                measure_temperature_flag.lto_priv.181
+ .bss.cnt.9973  0x20000380        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.cnt.9945  0x20000384        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.last_baudrate.8243
+                0x20000388        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.show_icon_stop_time.lto_priv.167
+                0x2000038c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x2000038c                show_icon_stop_time.lto_priv.167
+ .bss.show_temperature.lto_priv.185
+                0x20000390        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000390                show_temperature.lto_priv.185
+ .bss.ldr_conversion_flag.lto_priv.234
+                0x20000394        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000394                ldr_conversion_flag.lto_priv.234
+ .bss.esp8266_is_online
+                0x20000398        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.uart_rxstart.8276
+                0x2000039c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.animation_on_len.9943
+                0x200003a0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.display_icon_st.lto_priv.169
+                0x200003a4      0x2ac C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200003a4                display_icon_st.lto_priv.169
+ .bss.already_called.6689
+                0x20000650        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .bss.esp8266   0x20000654       0x8c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x20000654                esp8266
+ .bss.minute.lto_priv.242
+                0x200006e0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                0x200006e0                minute.lto_priv.242
+ .bss.icon_len.8743
+                0x200006e4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.snake_rgb
+                0x200006e8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.anim_on_idx.8741
+                0x200006ec        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.rgb1      0x200006f0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.food_rgb_dimmed
+                0x200006f4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.points    0x200006f8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.level     0x200006fc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.anim_off_idx.8742
+                0x20000700        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.food_rgb  0x20000704        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.snake_len
+                0x20000708        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.rgb0.lto_priv.171
+                0x2000070c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.snake_rgb_dimmed
+                0x20000710        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.anim_off_len.8739
+                0x20000714        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.color_idx.8740
+                0x20000718        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.wp_count  0x2000071c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.color_len.8737
+                0x20000720        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.icon_block.lto_priv.269
+                0x20000724        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+                0x20000724                icon_block.lto_priv.269
+ .bss.delay_loops
+                0x20000728        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.snake_x   0x2000072c        0x1 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.snake_y   0x2000072d        0x1 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ *fill*         0x2000072e        0x2 
+ .bss.anim_on_len.8738
+                0x20000730        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .bss.x.9318    0x20000734        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.cnt.9282  0x20000738        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.dimmed_display_colors_up.9253
+                0x2000073c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_txstart.8295
+                0x20000740        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_rxsize
+                0x20000744        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_txstop.8250
+                0x20000748        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_txsize
+                0x2000074c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.green_step.9256
+                0x20000750        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.cnt.9306  0x20000754        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.blue_step.9257
+                0x20000758        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.red_step.9255
+                0x2000075c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_rxstart.8268
+                0x20000760        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_txbuf
+                0x20000764       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.cnt.9270  0x20000784        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.last_year.8000
+                0x20000788        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.already_called.9240
+                0x2000078c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_rxbuf
+                0x20000790       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.uart_rxstop.8292
+                0x200007b0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.dimmed_display_colors_down.9254
+                0x200007b4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.cnt.9294  0x200007b8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.white_step.9258
+                0x200007bc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .bss.eeprom_ms_tick
+                0x200007c0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x200007c0                eeprom_ms_tick
+ .bss.last_m.7667
+                0x200007c4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_param.lto_priv.254
+                0x200007c8       0x44 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x200007c8                irmp_param.lto_priv.254
+ .bss.uart_rxstop.8292
+                0x2000080c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.p1.7661   0x20000810        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_tmp_id.lto_priv.258
+                0x20000814        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000814                irmp_tmp_id.lto_priv.258
+ .bss.irmp_command.lto_priv.263
+                0x20000818        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000818                irmp_command.lto_priv.263
+ .bss.ambilight_clock_wait_cycles
+                0x2000081c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.pon_cnt.7668
+                0x20000820        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_ir_detected.lto_priv.261
+                0x20000824        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000824                irmp_ir_detected.lto_priv.261
+ .bss.wait_for_space.7098
+                0x20000828        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_bit.lto_priv.255
+                0x2000082c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x2000082c                irmp_bit.lto_priv.255
+ .bss.repetition_frame_number.7105
+                0x20000830        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.cnt.7657  0x20000834        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.clk_cnt.9440
+                0x20000838        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.time_complete.7664
+                0x2000083c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.animation_cnt.9439
+                0x20000840        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.ambi_tick_cnt.9444
+                0x20000844        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.str_buf.7693
+                0x20000848      0x100 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.last_pin.7659
+                0x20000948        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.eeprom_cnt.9443
+                0x2000094c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.isdst     0x20000950        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.net_time_cnt.9442
+                0x20000954        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.uart_txstart.8295
+                0x20000958        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_address.lto_priv.265
+                0x2000095c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x2000095c                irmp_address.lto_priv.265
+ .bss.irmp_start_bit_detected.7097
+                0x20000960        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.p2.7662   0x20000964        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_tmp_command.lto_priv.257
+                0x20000968        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000968                irmp_tmp_command.lto_priv.257
+ .bss.uart_txbuf.lto_priv.253
+                0x2000096c       0x80 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x2000096c                uart_txbuf.lto_priv.253
+ .bss.last_h.7666
+                0x200009ec        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.ldr_cnt.9438
+                0x200009f0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.xor_check.lto_priv.260
+                0x200009f4        0x6 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x200009f4                xor_check.lto_priv.260
+ *fill*         0x200009fa        0x2 
+ .bss.uart_txsize.lto_priv.252
+                0x200009fc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x200009fc                uart_txsize.lto_priv.252
+ .bss.irmp_protocol.lto_priv.262
+                0x20000a00        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000a00                irmp_protocol.lto_priv.262
+ .bss.irmp_pulse_time.7100
+                0x20000a04        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.ambilight_clock_wait_cnt
+                0x20000a08        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.wait_for_start_space.7099
+                0x20000a0c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.key_repetition_len.7104
+                0x20000a10        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.genre2.lto_priv.259
+                0x20000a14        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000a14                genre2.lto_priv.259
+ .bss.irmp_tmp_address.lto_priv.256
+                0x20000a18        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000a18                irmp_tmp_address.lto_priv.256
+ .bss.p3.7663   0x20000a1c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.dcf77_cnt.9441
+                0x20000a20        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .bss.irmp_id.lto_priv.264
+                0x20000a24        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000a24                irmp_id.lto_priv.264
+ .bss.irmp_pause_time.7101
+                0x20000a28        0x1 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ *fill*         0x20000a29        0x3 
+ .bss.irmp_flags.lto_priv.266
+                0x20000a2c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                0x20000a2c                irmp_flags.lto_priv.266
+ .bss.snake_y.9396
+                0x20000a30        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.cnt.9531  0x20000a34        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.cnt.9348  0x20000a38        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.next_y.9398
+                0x20000a3c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.led_rgb_matrix_color.9450
+                0x20000a40        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.led_rgb_yellow.9449
+                0x20000a44        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.drop_x.9492
+                0x20000a48        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.cnt.9411  0x20000a4c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.y.9448    0x20000a50       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.cnt.9447  0x20000a90        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.drop_old.9478
+                0x20000a94        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.x.9540    0x20000a98        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.cnt.9422  0x20000a9c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.state.9506
+                0x20000aa0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.snake_led_rgb0.9393
+                0x20000aa4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.len.9400  0x20000aa8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.snake_x.9397
+                0x20000aac        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.led_rgb_display_color.9391
+                0x20000ab0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.snakepos_x.9395
+                0x20000ab4        0xb C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ *fill*         0x20000abf        0x1 
+ .bss.deceleration_cnt.9539
+                0x20000ac0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.drop_from_y.9490
+                0x20000ac4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.drop_new.9479
+                0x20000ac8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.next_x.9399
+                0x20000acc        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.led_rgb_display_color.9451
+                0x20000ad0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.snake_led_rgb.9392
+                0x20000ad4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.snakepos_y.9394
+                0x20000ad8        0xb C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ *fill*         0x20000ae3        0x1 
+ .bss.dropping.9489
+                0x20000ae4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.prescaler.9410
+                0x20000ae8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.drop_to_y.9491
+                0x20000aec        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.words.9559
+                0x20000af0       0x80 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .bss.ticker_col.lto_priv.285
+                0x20000b70        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000b70                ticker_col.lto_priv.285
+ .bss.ticker_str
+                0x20000b74       0x41 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .bss.ds18xx_rom_code.lto_priv.134
+                0x20000bb5        0x8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000bb5                ds18xx_rom_code.lto_priv.134
+ .bss.led.lto_priv.141
+                0x20000bbd      0x120 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000bbd                led.lto_priv.141
+ *fill*         0x20000cdd        0x3 
+ .bss.display   0x20000ce0      0x264 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000ce0                display
+ .bss.rgbw_buf.lto_priv.136
+                0x20000f44      0xcc0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20000f44                rgbw_buf.lto_priv.136
+ .bss.last_baudrate.8243.lto_priv.126
+                0x20001c04        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20001c04                last_baudrate.8243.lto_priv.126
+ .bss.last_baudrate.8243.lto_priv.127
+                0x20001c08        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .bss.next_rgbw_buf_idx.lto_priv.135
+                0x20001c0c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20001c0c                next_rgbw_buf_idx.lto_priv.135
+ .bss.gmain     0x20001c10       0xc8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20001c10                gmain
+ .bss.weather   0x20001cd8       0x54 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                0x20001cd8                weather
+ .bss.uart_txsize.lto_priv.251
+                0x20001d2c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001d2c                uart_txsize.lto_priv.251
+ .bss.family_code.lto_priv.144
+                0x20001d30        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001d30                family_code.lto_priv.144
+ .bss.irmp_data_array.lto_priv.139
+                0x20001d34       0x78 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001d34                irmp_data_array.lto_priv.139
+ .bss.current_led_offset
+                0x20001dac        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss.sk6812_dma_status.lto_priv.283
+                0x20001db0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001db0                sk6812_dma_status.lto_priv.283
+ .bss.last_clockspeed.6766.lto_priv.267
+                0x20001db4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001db4                last_clockspeed.6766.lto_priv.267
+ .bss.current_data_pause_len
+                0x20001db8        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss.food_y.lto_priv.176
+                0x20001dbc        0x3 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001dbc                food_y.lto_priv.176
+ *fill*         0x20001dbf        0x1 
+ .bss.current_mode.lto_priv.168
+                0x20001dc0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001dc0                current_mode.lto_priv.168
+ .bss.rgb.lto_priv.170
+                0x20001dc4       0x1c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001dc4                rgb.lto_priv.170
+ .bss.field.lto_priv.173
+                0x20001de0       0xa8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001de0                field.lto_priv.173
+ .bss.eeprom_is_up
+                0x20001e88        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001e88                eeprom_is_up
+ .bss.current_leds
+                0x20001e8c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss.dma_buf.lto_priv.284
+                0x20001e90       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001e90                dma_buf.lto_priv.284
+ .bss.rgb0.lto_priv.172
+                0x20001ed0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001ed0                rgb0.lto_priv.172
+ .bss.tables    0x20001ed4      0x5c4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20001ed4                tables
+ .bss.current_tetromino
+                0x20002498       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x20002498                current_tetromino
+ .bss.ds18xx_data_buf.lto_priv.145
+                0x200024a8        0x9 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x200024a8                ds18xx_data_buf.lto_priv.145
+ .bss.snake_list.lto_priv.175
+                0x200024b1       0xe0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x200024b1                snake_list.lto_priv.175
+ *fill*         0x20002591        0x3 
+ .bss.current_dma_buf_pos
+                0x20002594        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss.current_rgbw_buf_idx
+                0x20002598        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .bss.food_x.lto_priv.177
+                0x2000259c        0x3 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                0x2000259c                food_x.lto_priv.177
+ *fill*         0x2000259f        0x1 
+ .bss.uart_txstop.8250
+                0x200025a0        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .bss.i2c_clockspeed
+                0x200025a4        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .bss.uart_txbuf
+                0x200025a8       0x80 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.uart_txstop.8250
+                0x20002628        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.uart_txstart.8295
+                0x2000262c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.answer_pos.8744
+                0x20002630        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.answer.8743
+                0x20002634      0x101 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ *fill*         0x20002735        0x3 
+ .bss.uart_rxstart.8276
+                0x20002738        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.eeprom_addr
+                0x2000273c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.uart_rxbuf
+                0x20002740      0x100 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.uart_rxstop.8292
+                0x20002840        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .bss.dcf77_enabled.lto_priv.235
+                0x20002844        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x20002844                dcf77_enabled.lto_priv.235
+ .bss.dfplayer_queue.lto_priv.296
+                0x20002848       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x20002848                dfplayer_queue.lto_priv.296
+ .bss.words.9495
+                0x20002858       0x80 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .bss.dfplayer_queue_len.lto_priv.295
+                0x200028d8        0x1 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x200028d8                dfplayer_queue_len.lto_priv.295
+ .bss.dfplayer_queue_idx.lto_priv.294
+                0x200028d9        0x1 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                0x200028d9                dfplayer_queue_idx.lto_priv.294
+ *fill*         0x200028da        0x2 
+ .bss.night_time
+                0x200028dc       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x200028dc                night_time
+ .bss.delay_counter
+                0x2000291c        0x4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x2000291c                delay_counter
+ .bss.date_codes.lto_priv.299
+                0x20002920       0x4c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x20002920                date_codes.lto_priv.299
+ .bss.ambilight_night_time
+                0x2000296c       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x2000296c                ambilight_night_time
+ .bss.overlay   0x200029ac      0x884 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                0x200029ac                overlay
+ .bss.__malloc_sbrk_start
+                0x20003230        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+                0x20003230                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x20003234        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+                0x20003234                __malloc_free_list
+ .bss.heap_end.4167
+                0x20003238        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x2000323c        0x4 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+                0x2000323c                errno
+                0x20003240                __bss_end__ = .
+
+.heap           0x20003240        0x0
+                0x20003240                __end__ = .
+                0x20003240                end = __end__
+ *(.heap*)
+ .heap          0x20003240        0x0 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+                0x20003240                __HeapLimit = .
+
+.stack_dummy    0x20003240      0x100
+ *(.stack)
+ .stack         0x20003240      0x100 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+                0x20005000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20004f00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20005000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+LOAD obj\wc24h-stm32f103-release\~#\src\adc\adc.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+LOAD C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+LOAD obj\wc24h-stm32f103-release\~#\src\alarm\alarm.o
+LOAD obj\wc24h-stm32f103-release\~#\src\apa102\apa102.o
+LOAD obj\wc24h-stm32f103-release\~#\src\base\base.o
+LOAD obj\wc24h-stm32f103-release\~#\src\beeper\beeper.o
+LOAD obj\wc24h-stm32f103-release\~#\src\board-led\board-led.o
+LOAD obj\wc24h-stm32f103-release\~#\src\button\button.o
+LOAD obj\wc24h-stm32f103-release\~#\src\dcf77\dcf77.o
+LOAD obj\wc24h-stm32f103-release\~#\src\delay\delay.o
+LOAD obj\wc24h-stm32f103-release\~#\src\dfplayer\dfplayer-uart.o
+LOAD obj\wc24h-stm32f103-release\~#\src\dfplayer\dfplayer.o
+LOAD obj\wc24h-stm32f103-release\~#\src\display\display.o
+LOAD obj\wc24h-stm32f103-release\~#\src\ds18xx\ds18xx.o
+LOAD obj\wc24h-stm32f103-release\~#\src\eeprom\eeprom.o
+LOAD obj\wc24h-stm32f103-release\~#\src\esp-spiffs\esp-spiffs.o
+LOAD obj\wc24h-stm32f103-release\~#\src\esp8266\esp8266-uart.o
+LOAD obj\wc24h-stm32f103-release\~#\src\esp8266\esp8266.o
+LOAD obj\wc24h-stm32f103-release\~#\src\i2c\i2c.o
+LOAD obj\wc24h-stm32f103-release\~#\src\i2c\softi2c.o
+LOAD obj\wc24h-stm32f103-release\~#\src\irmp\irmp.o
+LOAD obj\wc24h-stm32f103-release\~#\src\ldr\ldr.o
+LOAD obj\wc24h-stm32f103-release\~#\src\log\log-uart.o
+LOAD obj\wc24h-stm32f103-release\~#\src\log\log.o
+LOAD obj\wc24h-stm32f103-release\~#\src\main.o
+LOAD obj\wc24h-stm32f103-release\~#\src\night\night.o
+LOAD obj\wc24h-stm32f103-release\~#\src\onewire\onewire.o
+LOAD obj\wc24h-stm32f103-release\~#\src\overlay\overlay.o
+LOAD obj\wc24h-stm32f103-release\~#\src\power\power.o
+LOAD obj\wc24h-stm32f103-release\~#\src\remote-ir\remote-ir.o
+LOAD obj\wc24h-stm32f103-release\~#\src\rtc\rtc.o
+LOAD obj\wc24h-stm32f103-release\~#\src\sk6812\sk6812.o
+LOAD obj\wc24h-stm32f103-release\~#\src\tables\tables.o
+LOAD obj\wc24h-stm32f103-release\~#\src\tempsensor\tempsensor.o
+LOAD obj\wc24h-stm32f103-release\~#\src\tetris\snake.o
+LOAD obj\wc24h-stm32f103-release\~#\src\tetris\tetris.o
+LOAD obj\wc24h-stm32f103-release\~#\src\timeserver\timeserver.o
+LOAD obj\wc24h-stm32f103-release\~#\src\vars\vars.o
+LOAD obj\wc24h-stm32f103-release\~#\src\weather\weather.o
+LOAD obj\wc24h-stm32f103-release\~#\src\wpsbutton\wpsbutton.o
+LOAD obj\wc24h-stm32f103-release\~#\src\ws2812\ws2812.o
+LOAD obj\wc24h-stm32f103-release\spl\src\misc.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_adc.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_bkp.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_can.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_cec.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_crc.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_dac.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_dbgmcu.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_dma.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_exti.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_flash.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_fsmc.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_gpio.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_i2c.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_iwdg.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_pwr.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_rcc.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_rtc.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_sdio.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_spi.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_tim.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_usart.o
+LOAD obj\wc24h-stm32f103-release\spl\src\stm32f10x_wwdg.o
+LOAD obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+LOAD obj\wc24h-stm32f103-release\src\system_stm32f10x.o
+START GROUP
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc_n.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc_n.a
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a
+END GROUP
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+OUTPUT(bin\Release\wc24h-STM32F103.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000096       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000c7       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000f8       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000129       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .ARM.attributes
+                0x0000015a       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .ARM.attributes
+                0x0000018b       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .ARM.attributes
+                0x000001bc       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .ARM.attributes
+                0x000001ed       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .ARM.attributes
+                0x0000021e       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .ARM.attributes
+                0x0000024f       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .ARM.attributes
+                0x00000280       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .ARM.attributes
+                0x000002b1       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .ARM.attributes
+                0x000002e2       0x31 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .ARM.attributes
+                0x00000313       0x1b obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+ .ARM.attributes
+                0x0000032e       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x0000035b       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000388       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+ .ARM.attributes
+                0x000003b5       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+ .ARM.attributes
+                0x000003e2       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000040f       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000043c       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000469       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000496       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000004c3       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000004f0       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+ .ARM.attributes
+                0x0000051d       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000054a       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000577       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x000005a4       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x000005d1       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000005fe       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000062b       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+ .ARM.attributes
+                0x00000658       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+ .ARM.attributes
+                0x00000685       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x000006b2       0x1d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .ARM.attributes
+                0x000006cf       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000006fc       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000729       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x00000756       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000783       0x1b c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000079e       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x000007cb       0x17 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000007e2       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x0000080f       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000083c       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x00000869       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000896       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000008c3       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x000008f0       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000091d       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000094a       0x2d c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .comment       0x0000006e       0x6f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+
+.debug_info     0x00000000    0x19998
+ .debug_info    0x00000000     0x4851 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_info    0x00004851     0x5ac5 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_info    0x0000a316     0x1e29 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_info    0x0000c13f     0x115f C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_info    0x0000d29e     0x1ba5 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_info    0x0000ee43     0x10f2 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_info    0x0000ff35     0x20ef C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_info    0x00012024     0x22fb C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_info    0x0001431f     0x15ad C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_info    0x000158cc     0x18e7 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_info    0x000171b3     0x128c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_info    0x0001843f      0x924 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_info    0x00018d63      0xb32 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_info    0x00019895       0x7e C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .debug_info    0x00019913       0x85 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+
+.debug_abbrev   0x00000000     0x3355
+ .debug_abbrev  0x00000000      0x483 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_abbrev  0x00000483      0x390 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_abbrev  0x00000813      0x510 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_abbrev  0x00000d23      0x3be C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_abbrev  0x000010e1      0x3f4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_abbrev  0x000014d5      0x2b8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_abbrev  0x0000178d      0x48a C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_abbrev  0x00001c17      0x62b C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_abbrev  0x00002242      0x243 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_abbrev  0x00002485      0x44a C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_abbrev  0x000028cf      0x3fb C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_abbrev  0x00002cca      0x2a7 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_abbrev  0x00002f71      0x36a C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_abbrev  0x000032db       0x66 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .debug_abbrev  0x00003341       0x14 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+
+.debug_loc      0x00000000     0xc3ce
+ .debug_loc     0x00000000     0x1aa7 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_loc     0x00001aa7     0x2aa6 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_loc     0x0000454d     0x1de8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_loc     0x00006335      0x4ed C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_loc     0x00006822      0x7f8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_loc     0x0000701a      0x890 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_loc     0x000078aa     0x106c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_loc     0x00008916     0x10da C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_loc     0x000099f0      0x614 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_loc     0x0000a004      0xf96 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_loc     0x0000af9a      0x8af C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_loc     0x0000b849      0x2e8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_loc     0x0000bb31      0x812 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_loc     0x0000c343       0x8b C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+
+.debug_aranges  0x00000000      0x720
+ .debug_aranges
+                0x00000000       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000020       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_aranges
+                0x00000040      0x118 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000158       0x48 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_aranges
+                0x000001a0      0x118 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_aranges
+                0x000002b8       0x90 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000348       0xc8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_aranges
+                0x00000410      0x110 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_aranges
+                0x00000520       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_aranges
+                0x00000560       0x78 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_aranges
+                0x000005d8       0x68 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_aranges
+                0x00000640       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_aranges
+                0x00000670       0x70 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_aranges
+                0x000006e0       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .debug_aranges
+                0x00000700       0x20 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+
+.debug_ranges   0x00000000     0x2410
+ .debug_ranges  0x00000000      0x7a0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_ranges  0x000007a0      0x7d0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_ranges  0x00000f70      0x300 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_ranges  0x00001270      0x1c0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_ranges  0x00001430      0x1f0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_ranges  0x00001620      0x250 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_ranges  0x00001870      0x2e0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_ranges  0x00001b50      0x1c8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_ranges  0x00001d18      0x1c0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_ranges  0x00001ed8      0x208 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_ranges  0x000020e0      0x148 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_ranges  0x00002228       0xe8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_ranges  0x00002310       0xf0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_ranges  0x00002400       0x10 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+
+.debug_line     0x00000000     0x6149
+ .debug_line    0x00000000      0xf97 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_line    0x00000f97      0xb96 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_line    0x00001b2d      0x92d C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_line    0x0000245a      0x643 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_line    0x00002a9d      0x792 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_line    0x0000322f      0x554 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_line    0x00003783      0x87b C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_line    0x00003ffe      0x832 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_line    0x00004830      0x55c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_line    0x00004d8c      0x5e3 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_line    0x0000536f      0x510 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_line    0x0000587f      0x2f0 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_line    0x00005b6f      0x48e C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_line    0x00005ffd       0xa4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .debug_line    0x000060a1       0xa8 obj\wc24h-stm32f103-release\src\startup_stm32f10x_md.o
+
+.debug_str      0x00000000     0x80b3
+ .debug_str     0x00000000     0x1b28 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+                               0x1dbd (size before relaxing)
+ .debug_str     0x00001b28     0x19b9 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+                               0x1f8b (size before relaxing)
+ .debug_str     0x000034e1      0x8b4 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+                                0xd87 (size before relaxing)
+ .debug_str     0x00003d95      0x613 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+                                0xb05 (size before relaxing)
+ .debug_str     0x000043a8      0xe13 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+                               0x1669 (size before relaxing)
+ .debug_str     0x000051bb      0x69a C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+                                0x96b (size before relaxing)
+ .debug_str     0x00005855      0x8cd C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+                               0x12bc (size before relaxing)
+ .debug_str     0x00006122      0xf78 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+                               0x171b (size before relaxing)
+ .debug_str     0x0000709a      0x59d C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+                                0xa4f (size before relaxing)
+ .debug_str     0x00007637      0x336 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+                                0x95f (size before relaxing)
+ .debug_str     0x0000796d      0x185 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+                                0x6dc (size before relaxing)
+ .debug_str     0x00007af2      0x32e C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+                                0x626 (size before relaxing)
+ .debug_str     0x00007e20      0x25c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+                                0x5f5 (size before relaxing)
+ .debug_str     0x0000807c       0x37 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+                                0x1f5 (size before relaxing)
+
+.debug_frame    0x00000000     0x1b98
+ .debug_frame   0x00000000       0x30 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans0.ltrans.o
+ .debug_frame   0x00000030       0x40 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans1.ltrans.o
+ .debug_frame   0x00000070      0x340 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans2.ltrans.o
+ .debug_frame   0x000003b0       0xc8 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans3.ltrans.o
+ .debug_frame   0x00000478      0x318 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans4.ltrans.o
+ .debug_frame   0x00000790      0x248 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans5.ltrans.o
+ .debug_frame   0x000009d8      0x278 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans6.ltrans.o
+ .debug_frame   0x00000c50      0x358 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans7.ltrans.o
+ .debug_frame   0x00000fa8       0x88 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans8.ltrans.o
+ .debug_frame   0x00001030      0x184 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans9.ltrans.o
+ .debug_frame   0x000011b4      0x140 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans10.ltrans.o
+ .debug_frame   0x000012f4       0x6c C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans11.ltrans.o
+ .debug_frame   0x00001360      0x160 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans12.ltrans.o
+ .debug_frame   0x000014c0       0x20 C:\Users\Succubus\AppData\Local\Temp\ccOqmPTc.ltrans13.ltrans.o
+ .debug_frame   0x000014e0       0x30 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-atoi.o)
+ .debug_frame   0x00001510       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-exit.o)
+ .debug_frame   0x00001538       0x34 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime.o)
+ .debug_frame   0x0000156c       0x30 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-gmtime_r.o)
+ .debug_frame   0x0000159c       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-init.o)
+ .debug_frame   0x000015c8       0x30 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-malloc.o)
+ .debug_frame   0x000015f8       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memset.o)
+ .debug_frame   0x00001618       0x38 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-freer.o)
+ .debug_frame   0x00001650       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000167c       0x44 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-rand.o)
+ .debug_frame   0x000016c0       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sbrkr.o)
+ .debug_frame   0x000016ec       0x44 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtol.o)
+ .debug_frame   0x00001730       0x44 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strtoul.o)
+ .debug_frame   0x00001774       0x30 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-mlock.o)
+ .debug_frame   0x000017a4       0x5c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-reent.o)
+ .debug_frame   0x00001800       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(sbrk.o)
+ .debug_frame   0x00001820       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys_s.a(_exit.o)
+ .debug_frame   0x00001840       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001868       0x70 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-sprintf.o)
+ .debug_frame   0x000018d8       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcat.o)
+ .debug_frame   0x00001900       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strchr.o)
+ .debug_frame   0x00001920       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcmp.o)
+ .debug_frame   0x00001940       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strcpy.o)
+ .debug_frame   0x00001960       0x2c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncmp.o)
+ .debug_frame   0x0000198c       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-strncpy.o)
+ .debug_frame   0x000019b4       0x48 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-vsnprintf.o)
+ .debug_frame   0x000019fc       0x90 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00001a8c       0x60 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001aec       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00001b14       0x28 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-memmove.o)
+ .debug_frame   0x00001b3c       0x3c c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00001b78       0x20 c:/program files (x86)/embitz/1.11/share/em_armgcc/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_n.a(lib_a-nano-msizer.o)
